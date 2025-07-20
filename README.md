@@ -1,26 +1,16 @@
-<p align="center">Live chat with Nestjs & postgres.</p>
+<p align="center">Data transformer with Nestjs & postgres.</p>
 
 ## Description
-
-This is a [Nest](https://github.com/nestjs/nest) repository resultant of the NestJS Crud + Login + Roles series.
-## Content
-
-- NestJS Controller and Dependency Injection
-- TypeORM Integration with MySQL database
-- @nestjs/config package integration for Environment Variables handling
-- Secure password encryption with BcryptJs
-- Authentication strategies with Passport
-- Custom Decorator and tips
-- nest-access-control integration for RBAC and ABAC introduction
-- Class validator with custom settings
-- On boot admin user generation
-- ETC.
 
 ## Installation
 
 ```bash
 $ npm install
 ```
+
+## config the env
+
+copy the `example.env` to `.env.development` , make sure to connect to database
 
 ## Running the app
 
