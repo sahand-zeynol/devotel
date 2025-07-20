@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "data": {
+    "jobsList": {
+      "job-990": {
+        "position": "Frontend Developer",
+        "location": { "city": "Austin", "state": "WA", "remote": true },
+        "compensation": { "min": 70000, "max": 111000, "currency": "USD" },
+        "employer": {
+          "companyName": "DataWorks",
+          "website": "https://creativedesign ltd.com"
+        },
+        "requirements": {
+          "experience": 5,
+          "technologies": ["Java", "Spring Boot", "AWS"]
+        },
+        "datePosted": "2025-07-14"
+      },
+      "job-927": {
+        "position": "Software Engineer",
+        "location": { "city": "New York", "state": "CA", "remote": true },
+        "compensation": { "min": 67000, "max": 127000, "currency": "USD" },
+        "employer": {
+          "companyName": "Creative Design Ltd",
+          "website": "https://dataworks.com"
+        },
+        "requirements": {
+          "experience": 4,
+          "technologies": ["JavaScript", "Node.js", "React"]
+        },
+        "datePosted": "2025-07-17"
+      }
+    }
+  }
+}

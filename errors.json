@@ -1,0 +1,5 @@
+{
+  "internal_error": "internal error",
+  "order_does_not_exist": "This order does not exist.",
+  "order_list_does_not_exist": "This orderList does not exist."
+}

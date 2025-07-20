@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "requestId": "req-216q3y7nt",
+    "timestamp": "2025-07-20T19:31:57.600Z"
+  },
+  "jobs": [
+    {
+      "jobId": "P1-381",
+      "title": "Data Scientist",
+      "details": {
+        "location": "Austin, TX",
+        "type": "Part-Time",
+        "salaryRange": "$72k - $123k"
+      },
+      "company": { "name": "Creative Design Ltd", "industry": "Analytics" },
+      "skills": ["Python", "Machine Learning", "SQL"],
+      "postedDate": "2025-07-11T16:40:50.296Z"
+    },
+    {
+      "jobId": "P1-654",
+      "title": "Data Scientist",
+      "details": {
+        "location": "New York, NY",
+        "type": "Full-Time",
+        "salaryRange": "$54k - $115k"
+      },
+      "company": { "name": "Creative Design Ltd", "industry": "Solutions" },
+      "skills": ["Java", "Spring Boot", "AWS"],
+      "postedDate": "2025-07-16T10:02:30.137Z"
+    }
+  ]
+}
